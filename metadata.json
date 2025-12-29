@@ -1,0 +1,7 @@
+{
+  "name": "Furlong VIN POS",
+  "description": "Terminal de procesamiento de VIN para Transportes Furlong S.A. con integración de impresión térmica vía RAWBT.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

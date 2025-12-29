@@ -1,0 +1,23 @@
+
+{
+  "short_name": "Furlong VIN",
+  "name": "Furlong VIN POS Terminal",
+  "icons": [
+    {
+      "src": "https://www.furlong.com.ar/wp-content/uploads/2021/05/logo-furlong.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.furlong.com.ar/wp-content/uploads/2021/05/logo-furlong.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00529b",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
